@@ -10,3 +10,12 @@ This is repo for theLab1
 - Add
 - Commit
 - Push
+
+**To Write in bold text**
+
+*this is to write in italic font*
+
+~~Strikethrough~~
+
+## Subscript Text
+- <sub>Git bash is a linux based tool which is used for writing basic commands for Git<sub/>
