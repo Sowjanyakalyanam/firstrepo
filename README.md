@@ -22,3 +22,4 @@ This is repo for theLab1
 ### This is Lab1 
 #### This is Assignment 1
 ##### Created firstrepo repo locally and cloned it 
+Committed and added the changes 
