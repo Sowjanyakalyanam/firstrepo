@@ -21,3 +21,4 @@ This is repo for theLab1
 - <sub>Git bash is a linux based tool which is used for writing basic commands for Git<sub/>
 ### This is Lab1 
 #### This is Assignment 1
+##### Created firstrepo repo locally and cloned it 
